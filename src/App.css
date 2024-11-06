@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ITC GARAMOND";
+    src: url('/src/assets/Fonts/ITCGaramondStd-LtCond.otf');
+}
+.bestseller-text{
+    font-family: "ITC GARAMOND";
+    font-weight: 400;
+}
